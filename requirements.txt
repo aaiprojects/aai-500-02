@@ -3,3 +3,6 @@ numpy
 gdown
 matplotlib
 folium
+scikit-learn
+statsmodels
+lxml
