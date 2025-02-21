@@ -6,3 +6,6 @@ folium
 scikit-learn
 statsmodels
 lxml
+imblearn
+xgboost
+ace_tools
