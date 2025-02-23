@@ -9,3 +9,6 @@ lxml
 imblearn
 xgboost
 ace_tools
+plotly
+nbformat
+ipython
