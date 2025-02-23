@@ -3,3 +3,12 @@ numpy
 gdown
 matplotlib
 folium
+scikit-learn
+statsmodels
+lxml
+imblearn
+xgboost
+ace_tools
+plotly
+nbformat
+ipython
