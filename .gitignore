@@ -1,2 +1,4 @@
 data/us_accidents_500k.csv
 .DS_Store
+data/
+src/__pycache__/
